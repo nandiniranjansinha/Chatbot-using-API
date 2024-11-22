@@ -1,0 +1,5 @@
+python-dotenv==1.0.1
+google-generativeai==0.3.2
+streamlit==1.30.0
+geocoder==1.38.1
+googlemaps==4.10.0
